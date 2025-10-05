@@ -24,13 +24,13 @@
   <a href="https://github.com/Farhan-tahir07">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-   <a href="https://www.instagram.com/">
+   <a href="https://www.instagram.com/farhan_tahir07">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="https://facebook.com/">
+   <a href="https://m.facebook.com/61565539799516/">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
- <a href="https://www.linkedin.com/">
+ <a href="https://www.linkedin.com/in/farhan-tahir-194043257/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
  </a>
 </div>
@@ -41,7 +41,7 @@
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,git,github,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,sql,mysql,git,github,vscode" /><br>
 </div>
 
 <br/>
